@@ -1,0 +1,5 @@
+﻿  server.cpp
+D:\代码\带校验多TCP_server\带校验多TCP_server\server.cpp(35): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
+D:\代码\带校验多TCP_server\带校验多TCP_server\server.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\带校验多TCP_server\带校验多TCP_server\server.cpp(180): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+  带校验多TCP_server.vcxproj -> D:\代码\带校验多TCP_server\Debug\带校验多TCP_server.exe

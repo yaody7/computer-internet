@@ -1,0 +1,4 @@
+﻿  server.cpp
+D:\代码\带校验UDP_server\带校验UDP\server.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\带校验UDP_server\带校验UDP\server.cpp(140): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+  带校验UDP.vcxproj -> D:\代码\带校验UDP_server\Debug\带校验UDP_server.exe
